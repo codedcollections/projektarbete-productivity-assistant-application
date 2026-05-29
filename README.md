@@ -4,6 +4,10 @@ React productivity app powered by Vite. Users can manage todos, habits, and even
 
 [Live Demo](https://projektarbete-productivity-assistan.vercel.app/)
 
+## 🔒 Demo Login
+
+Register a new user using the registration form, then log in using the same credentials via the login form.
+
 ## 🚀 Quick start
 
 1. Clone the repo:
