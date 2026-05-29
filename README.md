@@ -1,6 +1,7 @@
 # 🪄 Productivity App
 
 React productivity app powered by Vite. Users can manage todos, habits, and events, with support for user authentication.
+
 [Live Demo](https://projektarbete-productivity-assistan.vercel.app/)
 
 ## 🚀 Quick start
